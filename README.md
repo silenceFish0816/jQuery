@@ -1,2 +1,2 @@
 # jQuery
-[baidu](www.baidu.com)
+[jQuery API](http://www.jquery123.com/)
